@@ -31,6 +31,9 @@ Click Create.
 
 Return to the Play tab, select FluxusCraft Client from the profile menu, and click Play!
 
+# FluxusCraft Client Executable
+The FluxusCraft Client Executable is an app for running the FluxusCraft Client; the executable version hasn't been released yet, but we are currently working on it.
+
 # FluxusCraft Client by:
 
 **FluxusCraft Web**
