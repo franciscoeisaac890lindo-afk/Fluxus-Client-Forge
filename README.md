@@ -34,5 +34,7 @@ Return to the Play tab, select FluxusCraft Client from the profile menu, and cli
 # FluxusCraft Client by:
 
 **FluxusCraft Web**
+
 **Fluxus**
+
 **Isaac**
