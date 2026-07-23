@@ -34,6 +34,19 @@ Return to the Play tab, select FluxusCraft Client from the profile menu, and cli
 # FluxusCraft Client Executable
 The FluxusCraft Client Executable is an app for running the FluxusCraft Client; the executable version hasn't been released yet, but we are currently working on it.
 
+# Requirements to use FluxusCraft Client
+**Java 8 JDK**
+
+**Forge (MDK)**
+
+
+# FluxusCraft Client 1.1:
+
+**Cheat for Bedwars**
+
+**FluxusCraft Client Executable**
+
+
 # FluxusCraft Client by:
 
 **FluxusCraft Web**
