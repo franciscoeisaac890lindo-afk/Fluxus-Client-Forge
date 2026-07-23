@@ -44,7 +44,6 @@ The FluxusCraft Client Executable is an app for running the FluxusCraft Client; 
 
 **Cheat for Bedwars**
 
-**FluxusCraft Client Executable**
 
 
 # FluxusCraft Client by:
